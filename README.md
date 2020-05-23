@@ -15,8 +15,8 @@ In this assignment we have implemented classification models like Linear discrim
 ## Assignment 3
 In this assignment we have tried to implement Neural Network Algorithm.
 
-###Assignment 4
-In this assignment we are trying to play Play jack with the dealer using Markov Decision Process.
+## Assignment 4
+In this assignment we are trying to play Blackjack with the dealer using Markov Decision Process.
 We will try to understand the process of Blackjack and then determine which MDP process is the best for black jack.
 we will try and understand different techiques in MDP.
 
